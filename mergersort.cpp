@@ -87,3 +87,7 @@ void input ()
     }
     cout endl;
 }
+int main()
+{
+    input();
+}
