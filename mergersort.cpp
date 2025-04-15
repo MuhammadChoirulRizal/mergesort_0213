@@ -30,4 +30,8 @@ voiid input()
         cout << "array index ke-" << i <<":";
         cin >> arr[i];
     }
+    void mergersort(int low, int high)
+    {
+        if(low>=high)
+    }
 )
