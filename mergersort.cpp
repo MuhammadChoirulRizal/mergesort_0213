@@ -77,3 +77,13 @@ voiid input()
         arr[x]=B[x];
     }
 )
+void input ()
+{
+    cout <<"\nData setelah diurutkan(merge sort):";
+    for (int i=0; i<n; i++)
+    {
+        cout << arr[i]<<" ";
+
+    }
+    cout endl;
+}
