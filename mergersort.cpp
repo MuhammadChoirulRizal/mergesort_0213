@@ -36,4 +36,7 @@ voiid input()
         return;
     }
     int mid =(low+high)/2;
+    mergersort(low,mid);
+    mergersort(mid + 1,high);
+    
 )
